@@ -1,0 +1,9 @@
+{
+  "name": "moderation-console",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Moderation case queue with severity, assignment, appeals and audit history.",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
