@@ -59,3 +59,10 @@ npm test
 ---
 
 <div align="center"><sub>YukiShinobi // moderation should be accountable even when the community is busy.</sub></div>
+
+
+## Scope and maintenance — October 2026
+
+A moderation casework model. Real deployments need permission checks, audit retention, privacy controls and appeal process tests.
+
+This repository is separate from the current featured products: [Project Creation](https://github.com/YukiShinobi/project-creation), [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra), and [Simply Management](https://github.com/YukiShinobi/SIMPLYMANAGEMENT-WEBSITE). Its README does not constitute verification of a live production deployment.
